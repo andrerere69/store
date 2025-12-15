@@ -1,6 +1,7 @@
 
 
 
+
 <!DOCTYPE html>
 <html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" style="--vh: 35.49px;"><head>
         <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-1001213127&amp;cx=c&amp;gtm=4e59h0" nonce="+gWSoSeB7oJ/5IB7H6o53UJw"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="+gWSoSeB7oJ/5IB7H6o53UJw"></script><script src="https://browser.sentry-cdn.com/6.19.7/bundle.min.js" crossorigin="anonymous"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWW5SS" nonce="+gWSoSeB7oJ/5IB7H6o53UJw"></script><script async="" defer src="https://www.etsy.com/include/tags.js"></script><script>if (window.performance && performance.mark) performance.mark("TTP")</script>
@@ -130,7 +131,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/",
+  "url": "https://iaiddipolewalimandar.ac.id/agenda",
   "name": "ZONA66: Penguatan Kerjasama Dengan Slot Gacor Hari Ini Bermodalkan 5000 Bisa Menang Maxwin Setiap Hari Di Tahun 2025-2026",
   "sku": "4302118744",
   "description": "ZONA66 dan IAI DDI Polman turut memperkuat kerja sama strategis di sektor digital hiburan dengan menghadirkan informasi slot gacor hari ini untuk periode 2025–2026. Melalui konsep promosi yang mudah dipahami, ZONA66 menyoroti peluang bermain dengan modal terjangkau mulai 5.000 yang diklaim memiliki kesempatan meraih maxwin setiap hari. Pendekatan ini menunjukkan bagaimana kolaborasi dan strategi digital dimanfaatkan untuk menjangkau masyarakat luas secara efektif, informatif, dan relevan dengan tren yang berkembang.",
@@ -226,7 +227,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/"
+      "item": "https://iaiddipolewalimandar.ac.id/agenda"
     }
   ]
 }
@@ -238,27 +239,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/#org",
+      "@id": "https://iaiddipolewalimandar.ac.id/agenda#org",
       "name": "ZONA66",
-      "url": "https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/",
+      "url": "https://iaiddipolewalimandar.ac.id/agenda",
       "logo": "https://i.pinimg.com/736x/c1/2c/a4/c12ca4eb93e7c4a2b7f4b3f24ed75b7c.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/#website",
-      "url": "https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/",
+      "@id": "https://iaiddipolewalimandar.ac.id/agenda#website",
+      "url": "https://iaiddipolewalimandar.ac.id/agenda",
       "name": "ZONA66",
-      "publisher": { "@id": "https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/#org" },
+      "publisher": { "@id": "https://iaiddipolewalimandar.ac.id/agenda#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?s={search_term_string}",
+        "target": "https://iaiddipolewalimandar.ac.id/agenda?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/#app",
+      "@id": "https://iaiddipolewalimandar.ac.id/agenda#app",
       "name": "ZONA66",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -272,7 +273,7 @@
         <meta name="twitter:site" content="@ZONA66" value="" /><meta name="twitter:card" content="summary_large_image" value="" /><meta name="twitter:app:name:iphone" content="ZONA66" value="" /><meta name="twitter:app:url:iphone" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:iphone" content="477128284" value="" /><meta name="twitter:app:name:ipad" content="ZONA66" value="" /><meta name="twitter:app:url:ipad" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:ipad" content="477128284" value="" /><meta name="twitter:app:name:googleplay" content="ZONA66" value="" /><meta name="twitter:app:url:googleplay" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
 <meta property="og:title" content="ZONA66: Penguatan Kerjasama Dengan Slot Gacor Hari Ini Bermodalkan 5000 Bisa Menang Maxwin Setiap Hari Di Tahun 2025-2026 - ZONA66 Indonesia" />
 <meta property="og:description" content="ZONA66 dan IAI DDI Polman turut memperkuat kerja sama strategis di sektor digital hiburan dengan menghadirkan informasi slot gacor hari ini untuk periode 2025–2026. Melalui konsep promosi yang mudah dipahami, ZONA66 menyoroti peluang bermain dengan modal terjangkau mulai 5.000 yang diklaim memiliki kesempatan meraih maxwin setiap hari. Pendekatan ini menunjukkan bagaimana kolaborasi dan strategi digital dimanfaatkan untuk menjangkau masyarakat luas secara efektif, informatif, dan relevan dengan tren yang berkembang." />
-<meta property="og:type" content="product" /><meta property="og:url" content="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?utm_source=OpenGraph&amp;utm_medium=PageTools&amp;utm_campaign=Share" /><meta property="og:image" content="https://i.pinimg.com/736x/c1/2c/a4/c12ca4eb93e7c4a2b7f4b3f24ed75b7c.jpg" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" />
+<meta property="og:type" content="product" /><meta property="og:url" content="https://iaiddipolewalimandar.ac.id/agenda?utm_source=OpenGraph&amp;utm_medium=PageTools&amp;utm_campaign=Share" /><meta property="og:image" content="https://i.pinimg.com/736x/c1/2c/a4/c12ca4eb93e7c4a2b7f4b3f24ed75b7c.jpg" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" />
 
         
 
@@ -281,9 +282,9 @@
         <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" /><link rel="preconnect" href="//i.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://i.pinimg.com/736x/c1/2c/a4/c12ca4eb93e7c4a2b7f4b3f24ed75b7c.jpg" fetchpriority="high" />
 
 
-            <link rel="canonical" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" />
+            <link rel="canonical" href="https://iaiddipolewalimandar.ac.id/agenda" />
             <link rel="amphtml" href="https://pub-e1d0ebf316364ed9bd3512ac26338472.r2.dev/iaiddipolewalimandar-kerjasama-amp.html" />
-<link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" hreflang="en" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/fi-en/" hreflang="en-FI" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/au/" hreflang="en-AU" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/ca/" hreflang="en-CA" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/dk-en/" hreflang="en-DK" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/hk-en/" hreflang="en-HK" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/ie/" hreflang="en-IE" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/il-en/" hreflang="en-IL" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/in-en/" hreflang="en-IN" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/nz/" hreflang="en-NZ" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/no-en/" hreflang="en-NO" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/se-en/" hreflang="en-SE" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/sg-en/" hreflang="en-SG" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/uk/" hreflang="en-GB" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/de/" hreflang="de" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/at/" hreflang="de-AT" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/ch/" hreflang="de-CH" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/fr/" hreflang="fr" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/ca-fr/" hreflang="fr-CA" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/nl/" hreflang="nl" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/be/" hreflang="nl-BE" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/it/" hreflang="it" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/es/" hreflang="es" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/mx/" hreflang="es-MX" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/jp/" hreflang="ja" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/pl/" hreflang="pl" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/pt/" hreflang="pt" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" hreflang="x-default" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" hreflang="en-US" />
+<link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agenda" hreflang="en" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendafi-en/" hreflang="en-FI" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendaau/" hreflang="en-AU" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendaca/" hreflang="en-CA" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendadk-en/" hreflang="en-DK" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendahk-en/" hreflang="en-HK" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendaie/" hreflang="en-IE" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendail-en/" hreflang="en-IL" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendain-en/" hreflang="en-IN" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendanz/" hreflang="en-NZ" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendano-en/" hreflang="en-NO" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendase-en/" hreflang="en-SE" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendasg-en/" hreflang="en-SG" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendauk/" hreflang="en-GB" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendade/" hreflang="de" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendaat/" hreflang="de-AT" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendach/" hreflang="de-CH" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendafr/" hreflang="fr" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendaca-fr/" hreflang="fr-CA" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendanl/" hreflang="nl" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendabe/" hreflang="nl-BE" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendait/" hreflang="it" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendaes/" hreflang="es" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendamx/" hreflang="es-MX" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendajp/" hreflang="ja" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendapl/" hreflang="pl" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agendapt/" hreflang="pt" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agenda" hreflang="x-default" /><link rel="alternate" href="https://iaiddipolewalimandar.ac.id/agenda" hreflang="en-US" />
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";</script>
 
@@ -478,7 +479,7 @@
 </li>
 <li data-ge-nav-menu="cart" data-ge-hover-event-name="gnav_hover_cart_menu">
     <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-wt-tooltip="" data-header-cart-button="">
-        <a aria-label="Cart" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
+        <a aria-label="Cart" href="https://iaiddipolewalimandar.ac.id/agendacart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
             <span class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count" aria-hidden="true">
                 0
             </span>
@@ -502,25 +503,25 @@
                 <ul class="wt-list-unstyled wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                       
                       <li class="wt-mr-xs-3">
-  <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=slot777" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="-10">
+  <a href="https://iaiddipolewalimandar.ac.id/agenda?ref=slot777" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="-10">
     <span class="wt-icon wt-icon--smaller-xs wt-nudge-b-1 wt-nudge-r-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.535 7A4 4 0 0 1 12 2.354 4 4 0 0 1 18.465 7H22v9h-1v6H3v-6H2V7zm9.466 0H13V5a2 2 0 1 1 2.001 2M11 5a2 2 0 1 0-2.001 2H11zm-.764 4c-.55.614-1.348 1-2.236 1v2a4.98 4.98 0 0 0 3-1v3H4V9zM13 11c.836.628 1.874 1 3 1v-2a3 3 0 0 1-2.236-1H20v5h-7zm-8 5v4h6v-4zm8 4v-4h6v4z"></path></svg></span><span>
     SLOT777
 </span>
   </a>
 </li><li class="wt-mr-xs-3">
-  <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=slot-gacor" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link">
+  <a href="https://iaiddipolewalimandar.ac.id/agenda?ref=slot-gacor" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link">
     SLOT GACOR
   </a>
 </li><li class="wt-mr-xs-3">
-  <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=slot-gacor-maxwin" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="2">
+  <a href="https://iaiddipolewalimandar.ac.id/agenda?ref=slot-gacor-maxwin" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="2">
     SLOT GACOR MAXWIN
   </a>
 </li><li class="wt-mr-xs-3">
-  <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=slot-gacor-resmi" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="3">
+  <a href="https://iaiddipolewalimandar.ac.id/agenda?ref=slot-gacor-resmi" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="3">
     SLOT GACOR RESMI
   </a>
 </li><li class="wt-mr-xs-3">
-  <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=slot-gacor-hari-ini" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link">
+  <a href="https://iaiddipolewalimandar.ac.id/agenda?ref=slot-gacor-hari-ini" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link">
     SLOT GACOR HARI INI
   </a>
 </li>
@@ -705,11 +706,11 @@ if (clientloggerIsEnabled) {
                 <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
                 <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link="" data-menu-ui="menuitem" tabindex="0" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=catnav_breadcrumb-home">ZONA66</a>
+                            <a data-breadcrumb-link="" data-menu-ui="menuitem" tabindex="0" href="https://iaiddipolewalimandar.ac.id/agenda?ref=catnav_breadcrumb-home">ZONA66</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"></path></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link="" data-menu-ui="menuitem" tabindex="0" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/c/clothing?explicit=1&amp;ref=catnav_breadcrumb-0">SLOT777</a>
+                            <a data-breadcrumb-link="" data-menu-ui="menuitem" tabindex="0" href="https://iaiddipolewalimandar.ac.id/agendac/clothing?explicit=1&amp;ref=catnav_breadcrumb-0">SLOT777</a>
                         </li>
                            <pre> | </pre> 
                             
@@ -751,7 +752,7 @@ if (clientloggerIsEnabled) {
 </span>
     </button>
     <div id="etsys_pick" role="tooltip">
-        ZONA66 dan IAI DDI Polman turut memperkuat kerja sama strategis di sektor digital hiburan dengan menghadirkan informasi slot gacor hari ini untuk periode 2025–2026. Melalui konsep promosi yang mudah dipahami, ZONA66 menyoroti peluang bermain dengan modal terjangkau mulai 5.000 yang diklaim memiliki kesempatan meraih maxwin setiap hari. Pendekatan ini menunjukkan bagaimana kolaborasi dan strategi digital dimanfaatkan untuk menjangkau masyarakat luas secara efektif, informatif, dan relevan dengan tren yang berkembang. <p class="wt-mt-xs-3"><a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" target="_blank"> ZONA66 </a></p>
+        ZONA66 dan IAI DDI Polman turut memperkuat kerja sama strategis di sektor digital hiburan dengan menghadirkan informasi slot gacor hari ini untuk periode 2025–2026. Melalui konsep promosi yang mudah dipahami, ZONA66 menyoroti peluang bermain dengan modal terjangkau mulai 5.000 yang diklaim memiliki kesempatan meraih maxwin setiap hari. Pendekatan ini menunjukkan bagaimana kolaborasi dan strategi digital dimanfaatkan untuk menjangkau masyarakat luas secara efektif, informatif, dan relevan dengan tren yang berkembang. <p class="wt-mt-xs-3"><a href="https://iaiddipolewalimandar.ac.id/agenda" target="_blank"> ZONA66 </a></p>
     </div>
 </div>
         </div>
@@ -930,7 +931,7 @@ if (clientloggerIsEnabled) {
 </div>
 
 <div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
-        <a class="wt-text-link wt-text-link-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/signin?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost">
+        <a class="wt-text-link wt-text-link-underline" href="https://iaiddipolewalimandar.ac.id/agendasignin?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost">
         <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z"></path></svg></span>Report this item to ZONA66
     </a>
     </div>
@@ -1002,7 +1003,7 @@ if (clientloggerIsEnabled) {
         
     ">
         <span class="wt-text-title-small">
-    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" class="wt-text-link-no-underline wt-sem-text-primary">
+    <a href="https://iaiddipolewalimandar.ac.id/agenda" class="wt-text-link-no-underline wt-sem-text-primary">
         ZONA66
     </a>
 </span>
@@ -3365,7 +3366,7 @@ if (clientloggerIsEnabled) {
 <li class="wt-block-grid__item wt-display-flex-xs wt-align-items-flex-start">
             <div><span class="wt-icon wt-nudge-b-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4.5 8v7H3v5h5v-1.25h2.5v-2H8V15H6.5V8H8V6.5h7V8h1.75v2.457l2 1.714V8H20V3h-5v1.5H8V3H3v5z"></path><path d="m12.39 9.129 9.273 7.971-4.17.29 1.378 3-2.272 1.043-1.36-2.962-2.854 2.887z"></path></svg></span></div>
         <div class="wt-ml-xs-1 how-its-made-label-product-details">
-                Designed by <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" target="_blank" class="wt-text-link-no-underline wt-text-title">ZONA66</a>
+                Designed by <a href="https://iaiddipolewalimandar.ac.id/agenda" target="_blank" class="wt-text-link-no-underline wt-text-title">ZONA66</a>
 
         </div>
 </li>
@@ -3920,7 +3921,7 @@ if (clientloggerIsEnabled) {
             <strong>ZONA66 Perlindungan Pembelian</strong>
             <br />
             Berbelanja dengan percaya diri di ZONA66, mengetahui jika terjadi kesalahan pada pesanan, kami siap membantu Anda untuk semua pembelian yang memenuhi syarat Ã¢â‚¬â€
-            <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" target="_blank" class="wt-text-link">
+            <a href="https://iaiddipolewalimandar.ac.id/agenda" target="_blank" class="wt-text-link">
                 see program terms
             </a>
         </p>
@@ -3991,12 +3992,12 @@ if (clientloggerIsEnabled) {
     <div>
         <p class="wt-text-heading-small wt-line-height-tight wt-mb-lg-1">ZONA66</p>
         <p class=" wt-sem-text-primary wt-text-caption">
-            Owner of <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" class="wt-text-link">SLOT777</a>
+            Owner of <a href="https://iaiddipolewalimandar.ac.id/agenda" class="wt-text-link">SLOT777</a>
         </p>
         <div data-follow-shop-region="">
     <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
         <input type="hidden" class="id" name="user_id" value="386926495" />
-            <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--transparent follow-shop-button-listing-header-v3 wt-btn--transparent-flush-left" aria-label="Follow shop" data-action="follow-shop-button" data-shop-id="25947065" data-source-name="listing_header" data-module-name="">
+            <a href="https://iaiddipolewalimandar.ac.id/agenda" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--transparent follow-shop-button-listing-header-v3 wt-btn--transparent-flush-left" aria-label="Follow shop" data-action="follow-shop-button" data-shop-id="25947065" data-source-name="listing_header" data-module-name="">
                 <span class="etsy-icon wt-icon--smaller-xs" data-not-following-icon=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12,21C10.349,21,2,14.688,2,9,2,5.579,4.364,3,7.5,3A6.912,6.912,0,0,1,12,5.051,6.953,6.953,0,0,1,16.5,3C19.636,3,22,5.579,22,9,22,14.688,13.651,21,12,21ZM7.5,5C5.472,5,4,6.683,4,9c0,4.108,6.432,9.325,8,10,1.564-.657,8-5.832,8-10,0-2.317-1.472-4-3.5-4-1.979,0-3.7,2.105-3.721,2.127L11.991,8.1,11.216,7.12C11.186,7.083,9.5,5,7.5,5Z"></path></svg></span>
                 <span class="etsy-icon wt-icon--smaller-xs wt-display-none wt-text-brick" data-following-icon=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M16.5,3A6.953,6.953,0,0,0,12,5.051,6.912,6.912,0,0,0,7.5,3C4.364,3,2,5.579,2,9c0,5.688,8.349,12,10,12S22,14.688,22,9C22,5.579,19.636,3,16.5,3Z"></path></svg></span>
                         <span data-following-message="" class="wt-ml-xs-1 listing-header-v3-message wt-display-inline-block wt-position-relative wt-display-none ">
@@ -4012,7 +4013,7 @@ if (clientloggerIsEnabled) {
 </div>
     </div>
 </div>
-<a rel="nofollow" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/messages/new?with_id=386926495&amp;referring_id=4302118744&amp;referring_type=listing&amp;recipient_id=386926495&amp;from_action=contact-seller" class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="ZONA66" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message ZONA66">
+<a rel="nofollow" href="https://iaiddipolewalimandar.ac.id/agendamessages/new?with_id=386926495&amp;referring_id=4302118744&amp;referring_type=listing&amp;recipient_id=386926495&amp;from_action=contact-seller" class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="ZONA66" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message ZONA66">
     
     
     <span>Message ZONA66</span> 
@@ -4083,7 +4084,7 @@ if (clientloggerIsEnabled) {
 
                 <div class="wt-mb-xs-2">
                     <p class="wt-mb-xs-2 wt-mt-xs-2">
-                        Need to get in touch with the seller? Try <a rel="nofollow" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/messages/new?with_id=386926495&amp;referring_id=25947065&amp;referring_type=shop&amp;recipient_id=386926495&amp;from_action=contact-seller" class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="ZONA66" data-to_user_id="386926495" data-to_user_display_name="ZONA66" data-referring_type="shop" data-referring_id="25947065" data-subject="" data-message="" aria-label="messaging them">
+                        Need to get in touch with the seller? Try <a rel="nofollow" href="https://iaiddipolewalimandar.ac.id/agendamessages/new?with_id=386926495&amp;referring_id=25947065&amp;referring_type=shop&amp;recipient_id=386926495&amp;from_action=contact-seller" class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="ZONA66" data-to_user_id="386926495" data-to_user_display_name="ZONA66" data-referring_type="shop" data-referring_id="25947065" data-subject="" data-message="" aria-label="messaging them">
     
     
     <span>messaging them</span> 
@@ -4676,17 +4677,17 @@ if (clientloggerIsEnabled) {
             </div>
 
             <div class="wt-action-group__item-container">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=pagination&amp;page=1" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected" aria-current="true">
+                    <a href="https://iaiddipolewalimandar.ac.id/agenda?ref=pagination&amp;page=1" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected" aria-current="true">
                         <span>1</span>
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=pagination&amp;page=2" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="2">
+                    <a href="https://iaiddipolewalimandar.ac.id/agenda?ref=pagination&amp;page=2" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="2">
                         <span>2</span>
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=pagination&amp;page=3" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="3">
+                    <a href="https://iaiddipolewalimandar.ac.id/agenda?ref=pagination&amp;page=3" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="3">
                         <span>3</span>
                     </a>
             </div>
@@ -4696,14 +4697,14 @@ if (clientloggerIsEnabled) {
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=pagination&amp;page=5" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="5">
+                    <a href="https://iaiddipolewalimandar.ac.id/agenda?ref=pagination&amp;page=5" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="5">
                         <span>5</span>
                     </a>
             </div>
 
 
             <div class="wt-action-group__item-container">
-                <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon " href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=pagination&amp;page=2" data-page="2">
+                <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon " href="https://iaiddipolewalimandar.ac.id/agenda?ref=pagination&amp;page=2" data-page="2">
                     <span class="wt-screen-reader-only">Next page</span>
                     <span class="wt-icon wt-icon--smaller"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
   <path d="M17.3 12.7l.7-.7-.7-.7-4-4c-.4-.4-1-.4-1.4 0s-.4 1 0 1.4l2.3 2.3H7c-.6 0-1 .4-1 1s.4 1 1 1h7.2l-2.3 2.3c-.2.2-.3.4-.3.7 0 .6.4 1 1 1 .3 0 .5-.1.7-.3l4-4z"></path>
@@ -4812,7 +4813,7 @@ if (clientloggerIsEnabled) {
     
     <div class="seller-cred wt-width-full wt-display-flex-xs wt-flex-gap-xs-2 wt-flex-direction-column-xs wt-align-items-center wt-mb-xs-3 wt-mb-md-4">
         <div class="wt-position-relative">
-            <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/">
+            <a href="https://iaiddipolewalimandar.ac.id/agenda">
                 <img data-clg-id="WtImage" class="wt-circle wt-display-block wt-image--cover wt-image" src="https://i.ibb.co.com/LzdKkTTL/favicon.png?version=0" alt="ZONA66" style="aspect-ratio: 1;" sizes="(max-width: 639px) 65px, 80px" srcset="https://i.ibb.co.com/LzdKkTTL/favicon.png?version=0 100w, https://i.ibb.co.com/LzdKkTTL/favicon.png?version=0 200w" />
 
             </a>
@@ -4839,12 +4840,12 @@ if (clientloggerIsEnabled) {
 
     <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between">
         <div class="wt-display-flex-xs wt-flex-gap-xs-1 wt-align-items-center">
-            <a class="wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/shop/"><p class="wt-text-heading">ZONA66</p></a>
+            <a class="wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendashop/"><p class="wt-text-heading">ZONA66</p></a>
         </div>
     </div>
     
     <div class="wt-display-flex-xs wt-flex-direction-row-xs wt-flex-wrap">
-        <a class="wt-text-link-no-underline wt-text-body" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/">Owned by ZONA66</a>
+        <a class="wt-text-link-no-underline wt-text-body" href="https://iaiddipolewalimandar.ac.id/agenda">Owned by ZONA66</a>
             <span class="divider wt-align-self-center wt-mr-xs-1 wt-ml-xs-1">|</span>
             <p class="wt-text-body">Indonesia</p>
     </div>
@@ -4867,7 +4868,7 @@ if (clientloggerIsEnabled) {
     </div>
 
     <div class="seller-cred-buttons wt-display-flex-xs wt-justify-content-center wt-align-items-center wt-flex-gap-xs-2 wt-flex-gap-lg-4 wt-width-full wt-flex-wrap">
-        <div class="wt-flex-xs-1 wt-flex-lg-0"><a rel="nofollow" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/messages/new?with_id=386926495&amp;referring_id=4302118744&amp;referring_type=listing&amp;recipient_id=386926495&amp;from_action=contact-seller" class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="ZONA66" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message seller">
+        <div class="wt-flex-xs-1 wt-flex-lg-0"><a rel="nofollow" href="https://iaiddipolewalimandar.ac.id/agendamessages/new?with_id=386926495&amp;referring_id=4302118744&amp;referring_type=listing&amp;recipient_id=386926495&amp;from_action=contact-seller" class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="ZONA66" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message seller">
     
     
     <span>Message seller</span> 
@@ -4877,7 +4878,7 @@ if (clientloggerIsEnabled) {
         <div class="wt-flex-xs-1 wt-flex-lg-0"><div data-follow-shop-region="">
     <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
         <input type="hidden" class="id" name="user_id" value="386926495" />
-            <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/signin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&amp;use_follow_text=1&amp;from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--secondary wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-width-full-xs wt-no-wrap seller-cred-button" aria-label="Follow shop" data-action="follow-shop-button" data-shop-id="25947065" data-source-name="other" data-module-name="">
+            <a href="https://iaiddipolewalimandar.ac.id/agendasignin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&amp;use_follow_text=1&amp;from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--secondary wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-width-full-xs wt-no-wrap seller-cred-button" aria-label="Follow shop" data-action="follow-shop-button" data-shop-id="25947065" data-source-name="other" data-module-name="">
                 
                 
                         <span data-following-message="" class="wt-ml-xs-1 wt-display-none ">
@@ -4959,7 +4960,7 @@ if (clientloggerIsEnabled) {
     </div>
 
     <p id="product-safety-notice-toggle" class="wt-text-truncate--multi-line">
-                    <span class="wt-text-caption"><strong>Disclaimer:</strong> Artikel ini dibuat untuk tujuan informasi dan hiburan semata. <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" target="_blank">ZONA66</a> adalah platform permainan slot online yang ditujukan untuk hiburan semata. Bermain slot online memiliki potensi risiko kerugian finansial, sehingga penting untuk mengatur batas bermain secara bijak. Aktivitas ini tidak disarankan sebagai sumber penghasilan utama. Hasil kemenangan maupun kekalahan sepenuhnya dipengaruhi oleh faktor keberuntungan serta kemampuan pemain dalam mengelola permainan.</span>
+                    <span class="wt-text-caption"><strong>Disclaimer:</strong> Artikel ini dibuat untuk tujuan informasi dan hiburan semata. <a href="https://iaiddipolewalimandar.ac.id/agenda" target="_blank">ZONA66</a> adalah platform permainan slot online yang ditujukan untuk hiburan semata. Bermain slot online memiliki potensi risiko kerugian finansial, sehingga penting untuk mengatur batas bermain secara bijak. Aktivitas ini tidak disarankan sebagai sumber penghasilan utama. Hasil kemenangan maupun kekalahan sepenuhnya dipengaruhi oleh faktor keberuntungan serta kemampuan pemain dalam mengelola permainan.</span>
 
     </p>
 </div>
@@ -5088,9 +5089,9 @@ if (clientloggerIsEnabled) {
 </div>
     
     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-        <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?ref=breadcrumb_listing">ZONA66</a>
+        <a href="https://iaiddipolewalimandar.ac.id/agenda?ref=breadcrumb_listing">ZONA66</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"></path></svg></span>
-        <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/c/clothing?explicit=1&amp;ref=breadcrumb_listing">SLOT777</a>
+        <a href="https://iaiddipolewalimandar.ac.id/agendac/clothing?explicit=1&amp;ref=breadcrumb_listing">SLOT777</a>
 </div><br />
     
     <div id="google-one-tap-modal-div" class="google-one-tap-modal-div">
@@ -5183,7 +5184,7 @@ if (clientloggerIsEnabled) {
                 </legend>
                 <p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0">
                     Simpan koleksi untuk diri sendiri atau beri inspirasi kepada pembeli lain! Perlu diingat bahwa siapa pun dapat melihat koleksi publikÃ¢â‚¬â€koleksi tersebut mungkin juga muncul di rekomendasi dan tempat lain.
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/legal/privacy/" target="_blank">View ZONA66 Privacy Policy</a></p>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendalegal/privacy/" target="_blank">View ZONA66 Privacy Policy</a></p>
             </div>
             <div>
                     <div id="collection-privacy-control" class="wt-display-flex-md wt-flex-direction-column-xs wt-align-items-center" data-label-yes="Private" data-label-no="Public" data-selector="toggle-switch">
@@ -5421,19 +5422,19 @@ if (clientloggerIsEnabled) {
     <div id="footer-extra-links-shop" class="wt-content-toggle__body" aria-hidden="false">
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/giftcards?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendagiftcards?ref=ftr">
                             
                             <span>Gift cards</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__registry-link" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/registry?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__registry-link" href="https://iaiddipolewalimandar.ac.id/agendaregistry?ref=ftr">
                             
                             <span>ZONA66 Registry</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/categories">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendacategories">
                             
                             <span>Sitemap</span>
                         </a>
@@ -5445,19 +5446,19 @@ if (clientloggerIsEnabled) {
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/uk?locale_override=GBP%7Cen-GB%7CGB">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendauk?locale_override=GBP%7Cen-GB%7CGB">
                             
                             <span>ZONA66 United Kingdom</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/de?locale_override=EUR%7Cde%7CDE">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendade?locale_override=EUR%7Cde%7CDE">
                             
                             <span>ZONA66 Germany</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/ca?locale_override=CAD%7Cen-US%7CCA">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendaca?locale_override=CAD%7Cen-US%7CCA">
                             
                             <span>ZONA66 Canada</span>
                         </a>
@@ -5482,25 +5483,25 @@ if (clientloggerIsEnabled) {
     <div id="footer-extra-links-sell" class="wt-content-toggle__body" aria-hidden="false">
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/sell?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendasell?ref=ftr">
                             
                             <span>Sell on ZONA66</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__community-teams-link" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" rel="nofollow">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__community-teams-link" href="https://iaiddipolewalimandar.ac.id/agenda" rel="nofollow">
                             
                             <span>Teams</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__community-forums-link" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/" rel="nofollow">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id="collage-footer__community-forums-link" href="https://iaiddipolewalimandar.ac.id/agenda" rel="nofollow">
                             
                             <span>Forums</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/affiliates?ref=ftr" rel="nofollow">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendaaffiliates?ref=ftr" rel="nofollow">
                             
                             <span>Affiliates &amp; Creators</span>
                         </a>
@@ -5525,13 +5526,13 @@ if (clientloggerIsEnabled) {
     <div id="footer-extra-links-about" class="wt-content-toggle__body" aria-hidden="false">
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/about?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendaabout?ref=ftr">
                             
                             <span>ZONA66, Inc.</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/legal?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendalegal?ref=ftr">
                             
                             <span>Policies</span>
                         </a>
@@ -5543,25 +5544,25 @@ if (clientloggerIsEnabled) {
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/careers?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendacareers?ref=ftr">
                             
                             <span>Careers</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/press?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendapress?ref=ftr">
                             
                             <span>Press</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/impact?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendaimpact?ref=ftr">
                             
                             <span>Impact</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/help/article/25840304230?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendahelp/article/25840304230?ref=ftr">
                             
                             <span>Legal imprint</span>
                         </a>
@@ -5586,7 +5587,7 @@ if (clientloggerIsEnabled) {
     <div id="footer-extra-links-help" class="wt-content-toggle__body" aria-hidden="false" data-keep-open="">
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/help?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://iaiddipolewalimandar.ac.id/agendahelp?ref=ftr">
                             
                             <span>Help Center</span>
                         </a>
@@ -5652,7 +5653,7 @@ if (clientloggerIsEnabled) {
             <div class="chrome-footer__final">
 
                     <div class="chrome-footer__final-col">
-                        <a id="locale-picker-trigger" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small" aria-label="Update your settings Indonesia English (US) Rp (IDR)" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/your/account/locale_preferences?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" data-aria-controls="wt-locale-picker-overlay" role="button" aria-controls="wt-locale-picker-overlay">
+                        <a id="locale-picker-trigger" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small" aria-label="Update your settings Indonesia English (US) Rp (IDR)" href="https://iaiddipolewalimandar.ac.id/agendayour/account/locale_preferences?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" data-aria-controls="wt-locale-picker-overlay" role="button" aria-controls="wt-locale-picker-overlay">
     <span class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle">    <span class="etsy-icon locale-icon-svg-default wt-display-block wt-text-white
                     wt-icon--smaller-xs wt-nudge-b-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12,2A10,10,0,1,0,22,12,10.012,10.012,0,0,0,12,2ZM9,18.883v0.528A7.938,7.938,0,0,1,4.06,11.06l3.385,3.385a2.967,2.967,0,0,0,1.649,4.4ZM17.5,15a2.509,2.509,0,0,0,.5-0.05V15a0.992,0.992,0,0,0,.927.985A8,8,0,0,1,12,20c-0.216,0-.427-0.016-0.639-0.032l1.254-2.5-0.015.006A2.968,2.968,0,0,0,13,16a2.988,2.988,0,0,0-5-2.221V11H9a1,1,0,0,0,1-1V9a1,1,0,0,0,1-1,1,1,0,0,0,0-2H6.726A7.9,7.9,0,0,1,14,4.263V6a1,1,0,0,0,2,0V5.082a8.047,8.047,0,0,1,2,1.649V7H17a1,1,0,0,0,0,2h2.411a7.941,7.941,0,0,1,.326,1H17a2.556,2.556,0,0,0-2,2.5A2.5,2.5,0,0,0,17.5,15Z"></path></svg></span>
 </span>
@@ -5741,7 +5742,7 @@ if (clientloggerIsEnabled) {
 <li>Situs Slot Gacor Terpercaya</li>
 <li>Situs Slot Online Terbaik 2025</li>
 </ul>
-<p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di ZONA66 <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/legal/cookies-and-tracking-technologies">Kebijakan Cookie &amp; Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/legal/privacy">Privacy Policy</a>.</p>
+<p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di ZONA66 <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/agendalegal/cookies-and-tracking-technologies">Kebijakan Cookie &amp; Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/agendalegal/privacy">Privacy Policy</a>.</p>
     </div>
 
     <div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs">
@@ -5760,7 +5761,7 @@ if (clientloggerIsEnabled) {
         <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
             <h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Periklanan yang Dipersonalisasi</h2>
 <p class="wt-text-caption wt-mb-xs-2">Untuk mengaktifkan iklan yang dipersonalisasi (seperti iklan berbasis minat), kami dapat membagikan data Anda dengan mitra pemasaran dan periklanan kami menggunakan cookie dan teknologi lainnya. Mitra tersebut mungkin memiliki informasi mereka sendiri yang telah mereka kumpulkan tentang Anda. Menonaktifkan pengaturan iklan yang dipersonalisasi tidak akan menghentikan Anda melihat iklan ZONA66, tetapi dapat membuat iklan yang Anda lihat kurang relevan atau lebih berulang.</p>
-<p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai &quot;penjualan&quot; atau &quot;pembagian&quot; informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/legal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/legal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
+<p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai &quot;penjualan&quot; atau &quot;pembagian&quot; informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/agendalegal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/agendahelp/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/agendalegal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
         </div>
         <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
             <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
@@ -6053,7 +6054,7 @@ if (clientloggerIsEnabled) {
             <input type="hidden" name="region_code" value="" />
 
             <p class="wt-mb-xs-3 wt-text-body-01">
-                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/help/article/493" target="_blank">Learn more.</a>
+                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://iaiddipolewalimandar.ac.id/agendahelp/article/493" target="_blank">Learn more.</a>
             </p>
 
                 <div id="locale-picker-sections-wrap">
@@ -6420,91 +6421,91 @@ if (clientloggerIsEnabled) {
     <div class="wt-display-flex-md wt-pt-xs-1 wt-pt-md-1 wt-text-body-01">
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendaau?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/at?locale_override=EUR%7Cde%7CAT">Austria</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendaat?locale_override=EUR%7Cde%7CAT">Austria</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendabe?locale_override=EUR%7Cnl%7CBE">Belgium</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendaca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendaca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendadk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendafi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/fr?locale_override=EUR%7Cfr%7CFR">France</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendafr?locale_override=EUR%7Cfr%7CFR">France</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/de?locale_override=EUR%7Cde%7CDE">Germany</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendade?locale_override=EUR%7Cde%7CDE">Germany</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendahk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendain-en?locale_override=INR%7Cen-IN%7CIN">India</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendaie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendail-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/it?locale_override=EUR%7Cit%7CIT">Italy</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendait?locale_override=EUR%7Cit%7CIT">Italy</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendajp?locale_override=JPY%7Cja%7CJP">Japan</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendamx?locale_override=MXN%7Ces%7CMX">Mexico</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/nz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendanz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendano-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendapl?locale_override=PLN%7Cpl%7CPL">Poland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendapt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendasg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/es?locale_override=EUR%7Ces%7CES">Spain</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendaes?locale_override=EUR%7Ces%7CES">Spain</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendase-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendach?locale_override=CHF%7Cde%7CCH">Switzerland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/nl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendanl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/uk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agendauk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/?locale_override=USD%7Cen-US%7CUS">United States</a>
+                    <a href="https://iaiddipolewalimandar.ac.id/agenda?locale_override=USD%7Cen-US%7CUS">United States</a>
                 </div>
         </div>
     </div>
@@ -6567,7 +6568,7 @@ if (clientloggerIsEnabled) {
 
         
 
-            <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">if(window.console){console.log("Is code your craft? https://iaiddipolewalimandar.ac.id/kerjasama-dan-kemitraan-iai-ddi-polman-dalam-pelaksanaan-student-mobility-2022/careers/")}</script>
+            <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">if(window.console){console.log("Is code your craft? https://iaiddipolewalimandar.ac.id/agendacareers/")}</script>
     
 
 <div id="privacy-settings-manager-load-complete" style="display: none;"></div><div id="footer-script-loaded" style="display: none;"></div><div id="privacy-settings-manager-load-complete" style="display: none;"></div><div id="footer-script-loaded" style="display: none;"></div><script type="text/javascript" id="" charset="">!function(c,d,g,e,a,f,b){c.ktag||(a=function(){a.sendEvent?a.sendEvent(arguments):a.ktq.push(arguments)},a.ktq=[],c.ktag=a,f=d.getElementsByTagName(e)[0],b=d.createElement(e),b.async=!0,b.src=g,f.parentNode.appendChild(b))}(window,document,"//resources.xg4ken.com/js/v2/ktag.js?tid\x3dKT-N3E88-3EB","script");ktag("setup","KT-N3E88-3EB","\x3cUSER_ID\x3e");</script>
