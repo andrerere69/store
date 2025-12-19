@@ -1,0 +1,14 @@
+# =========================
+# workshop NON-PHP URL
+# =========================
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Redirect workshop.php → /workshop (301 SEO)
+RewriteCond %{THE_REQUEST} \s/workshop\.php [NC]
+RewriteRule ^workshop\.php$ /workshop [R=301,L]
+
+# Internal rewrite /workshop → workshop.php
+RewriteRule ^workshop/?$ workshop.php [L]
+
+</IfModule>
